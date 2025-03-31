@@ -139,6 +139,6 @@ DRAX acts as a central coordinator (Manager) that understands user requests and 
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit pull requests or open issues for bugs, feature requests, or improvements.
+While DRAX is still in development, more agents with custom tools are to be added which include web automation , file system management , Code execution etc.. So contributions are always welcome . Try cloning this repo and add features to DRAX making him help you a lot. 
 
 
