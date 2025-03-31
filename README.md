@@ -41,7 +41,7 @@ DRAX acts as a central coordinator (Manager) that understands user requests and 
 *   **Vector DB:** LanceDB
 *   **Storage:** SQLite
 *   **Audio Recording:** Speech Recognition Library
-*   **Transcription:** Groq API
+*   **Transcription:** Open AI Whisper from Groq
 *   **TTS:** ElevenLabs
 *   **CLI:** `typer`, `rich`
 *   **APIs/Tools:** See Overview section.
@@ -51,7 +51,7 @@ DRAX acts as a central coordinator (Manager) that understands user requests and 
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/AtharshKrishnamoorthy/DRAX---Personal-AI-Assistant.git
     cd DRAX_ASSISTANT
     ```
 
